@@ -1,6 +1,4 @@
-# Huobi 交易所规则
+# Huobi Trading Rules
 DOMAIN-KEYWORD,huobi,Proxy
 DOMAIN-SUFFIX,huobi.com,Proxy
 DOMAIN-KEYWORD,huobiapi,Proxy
-
-
