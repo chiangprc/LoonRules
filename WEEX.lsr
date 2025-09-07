@@ -1,0 +1,3 @@
+# WEEX 交易所规则
+DOMAIN-KEYWORD,weex,Proxy
+DOMAIN-SUFFIX,weex.com,Proxy

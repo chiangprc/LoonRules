@@ -1,0 +1,4 @@
+# Bithumb 交易所规则
+DOMAIN-KEYWORD,bithumb,Proxy
+DOMAIN-SUFFIX,bithumb.com,Proxy
+

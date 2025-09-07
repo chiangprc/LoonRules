@@ -1,0 +1,3 @@
+# Kraken 交易所规则
+DOMAIN-KEYWORD,kraken,Proxy
+DOMAIN-SUFFIX,kraken.com,Proxy

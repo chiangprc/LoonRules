@@ -1,0 +1,5 @@
+# OKX 交易所规则
+DOMAIN-KEYWORD,okx,Proxy
+DOMAIN-SUFFIX,okx.com,Proxy
+DOMAIN-KEYWORD,okex,Proxy
+

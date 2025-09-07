@@ -1,0 +1,4 @@
+# Bitstamp 交易所规则
+DOMAIN-KEYWORD,bitstamp,Proxy
+DOMAIN-SUFFIX,bitstamp.net,Proxy
+

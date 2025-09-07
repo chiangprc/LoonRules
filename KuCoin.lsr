@@ -1,0 +1,4 @@
+# KuCoin 交易所规则
+DOMAIN-KEYWORD,kucoin,Proxy
+DOMAIN-SUFFIX,kucoin.com,Proxy
+DOMAIN-KEYWORD,kucoinapi,Proxy
