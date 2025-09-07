@@ -1,5 +1,6 @@
-# Bybit 交易所规则
+# Bybit Trading Rules
 DOMAIN-KEYWORD,bybit,Proxy
 DOMAIN-SUFFIX,bybit.com,Proxy
 DOMAIN-KEYWORD,bybitapi,Proxy
+
 
