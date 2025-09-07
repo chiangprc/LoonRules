@@ -1,3 +1,4 @@
-# Kraken 交易所规则
+# Kraken Trading Rules
 DOMAIN-KEYWORD,kraken,Proxy
 DOMAIN-SUFFIX,kraken.com,Proxy
+
