@@ -1,4 +1,5 @@
-# Coinbase 交易所规则
+# Coinbase Trading Rules
 DOMAIN-KEYWORD,coinbase,Proxy
 DOMAIN-SUFFIX,coinbase.com,Proxy
 DOMAIN-KEYWORD,gdax,Proxy
+
