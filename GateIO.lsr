@@ -1,4 +1,5 @@
-# GateIO 交易所规则
+# GateIO Trading Rules
 DOMAIN-KEYWORD,gateio,Proxy
 DOMAIN-SUFFIX,gate.io,Proxy
 DOMAIN-KEYWORD,gateapi,Proxy
+
