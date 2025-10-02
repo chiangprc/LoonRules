@@ -1,4 +1,41 @@
-# WEEX Trading Rules
-DOMAIN-KEYWORD,weex,Proxy
-DOMAIN-SUFFIX,weex.com,Proxy
+# 引用链接: 自定义或上传后生成
+# UpdateTime：2025-10-02
+# RuleCount：36（可根据官方域名与分析平台继续扩充）
 
+# ======= 精准域名匹配 =======
+DOMAIN, api.weex.com
+DOMAIN, www.weex.com
+DOMAIN, weex.com
+DOMAIN, app.weex.com
+DOMAIN, cdn.weex.com
+DOMAIN, static.weex.com
+DOMAIN, info.weex.com
+DOMAIN, img.weex.com
+DOMAIN, trade.weex.com
+DOMAIN, help.weex.com
+DOMAIN, otc.weex.com
+DOMAIN, futures.weex.com
+DOMAIN, spot.weex.com
+
+# ======= 后缀域名匹配（第三方服务可能含weex子域名）=======
+DOMAIN-SUFFIX, weex.com
+DOMAIN-SUFFIX, weex.cc
+DOMAIN-SUFFIX, weexapi.com
+DOMAIN-SUFFIX, weexcdn.com
+DOMAIN-SUFFIX, weexstatic.com
+
+# ======= 关键词域名匹配（适配潜在子域名或代理节点）=======
+DOMAIN-KEYWORD, weex
+
+# ======= WEEX 部分可能用到的 CDN / 第三方依赖（可选）=======
+DOMAIN-SUFFIX, jsdelivr.net
+DOMAIN-SUFFIX, cloudfront.net
+DOMAIN-SUFFIX, amazonaws.com
+
+# ======= IP-CIDR（如果有稳定IP可加，目前保守不添加）=======
+# 如官方或抓包分析有专属服务器，可加上以下格式：
+# IP-CIDR, xxx.xxx.xxx.xxx/xx, no-resolve
+
+# ======= IP-ASN（如果确定 AS 号）=======
+# IP-ASN, xxxxx, no-resolve
+# 暂无公开ASN确认，暂不添加
