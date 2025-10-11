@@ -1,0 +1,11 @@
+# Telegram 媒体服务规则（图片、视频、上传/下载）
+# UpdateTime: 2025-10-11
+
+# 域名
+DOMAIN-SUFFIX, telegram-cdn.org
+DOMAIN-SUFFIX, usercontent.dev
+DOMAIN-SUFFIX, telegramdownload.com
+
+# 官方 IP
+IP-CIDR, 149.154.160.0/20, no-resolve
+IP-CIDR6, 2001:67c:4e8::/48, no-resolve
