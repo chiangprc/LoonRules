@@ -1,0 +1,11 @@
+# CDN / Blob / 静态资源/高带宽
+DOMAIN, openai.com.cdn.cloudflare.net, AI 静态资源
+DOMAIN, openaiapi-site.azureedge.net, AI 静态资源
+DOMAIN, openaicomproductionae4b.blob.core.windows.net, AI 静态资源
+DOMAIN, production-openaicom-storage.azureedge.net, AI 静态资源
+DOMAIN-SUFFIX, oaistatic.com, AI 静态资源
+DOMAIN-SUFFIX, oaiusercontent.com, AI 静态资源
+DOMAIN-SUFFIX, azurefd.net, AI 静态资源
+DOMAIN-SUFFIX, webpubsub.azure.com, AI 静态资源
+DOMAIN-SUFFIX, turn.livekit.cloud, AI 静态资源
+DOMAIN-SUFFIX, sora.com, AI 静态资源
