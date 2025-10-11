@@ -1,7 +1,7 @@
-# Discord 优化规则合集 (Optimized for Loon / QuantumultX)
-# UpdateTime: 2025-10-11
+# Discord 优化规则合集 (For Loon)
+# Version: 2025-10-11
 # Author: CentralMatrix
-# Total Rules: 32
+# Total: 32
 
 # --- 主服务域名 ---
 DOMAIN, discord.com
@@ -14,11 +14,15 @@ DOMAIN, discord.dev
 DOMAIN, discord.design
 DOMAIN, discord.media
 
-# --- 静态/附件/CDN 域名 ---
+# --- API & 登录 ---
+DOMAIN-SUFFIX, discordstatus.com
+DOMAIN-SUFFIX, hammerandchisel.ssl.zendesk.com
+
+# --- 媒体/上传 ---
 DOMAIN-SUFFIX, discordcdn.com
 DOMAIN-SUFFIX, discord-attachments-uploads-prd.storage.googleapis.com
 
-# --- 辅助与游戏活动 ---
+# --- 活动/小游戏 ---
 DOMAIN-SUFFIX, discord-activities.com
 DOMAIN-SUFFIX, discordactivities.com
 DOMAIN-SUFFIX, discordpartygames.com
@@ -27,25 +31,13 @@ DOMAIN-SUFFIX, airhornbot.com
 DOMAIN-SUFFIX, airhorn.solutions
 DOMAIN-SUFFIX, bigbeans.solutions
 
-# --- 其他官方相关 ---
+# --- 附加 ---
 DOMAIN-SUFFIX, discordmerch.com
-DOMAIN-SUFFIX, discordstatus.com
 DOMAIN-SUFFIX, discord.store
 DOMAIN-SUFFIX, discord.tools
 DOMAIN-SUFFIX, discord.gift
 DOMAIN-SUFFIX, discord.gifts
 DOMAIN-SUFFIX, discordapp.io
 DOMAIN-SUFFIX, discordapp.page.link
-DOMAIN-SUFFIX, hammerandchisel.ssl.zendesk.com
-
-# --- 兼容旧前缀 ---
-DOMAIN-SUFFIX, discord.co
 DOMAIN-SUFFIX, discordsays.com
-
-# --- 优化说明 ---
-# 1. DOMAIN 优先于 DOMAIN-SUFFIX，匹配速度更快（适用于主域名/API）。
-# 2. CDN 与媒体建议单独策略组，如 “Discord Media”。
-# 3. 可通过分流策略区分：
-#     - Discord API → 低延迟节点
-#     - Discord CDN → 高带宽节点
-# 4. 建议开启 HTTP3 (QUIC) 支持节点以提升语音/视频体验。
+DOMAIN-SUFFIX, discord.co
