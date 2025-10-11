@@ -1,0 +1,124 @@
+##########################################################
+# Cryptocurrency 流量规则（最终优化版）
+# 分类：CEX / DEX / Wallet / Chain / DApp / Swap / News / Info / NFT / Hardware Wallet
+##########################################################
+
+# === CEX（中心化交易所）===
+HOST-SUFFIX,binance.com,Cryptocurrency
+HOST-SUFFIX,binance.cc,Cryptocurrency
+HOST-SUFFIX,binance.info,Cryptocurrency
+HOST-SUFFIX,binance.cloud,Cryptocurrency
+HOST-SUFFIX,binancefuture.com,Cryptocurrency
+HOST-SUFFIX,binance.im,Cryptocurrency
+HOST-SUFFIX,binance.me,Cryptocurrency
+HOST-SUFFIX,bitfinex.com,Cryptocurrency
+HOST-SUFFIX,bitmex.com,Cryptocurrency
+HOST-SUFFIX,ftx.com,Cryptocurrency
+HOST-SUFFIX,ftx.tech,Cryptocurrency
+HOST-SUFFIX,ftx.digital,Cryptocurrency
+HOST-SUFFIX,ftx.io,Cryptocurrency
+HOST-SUFFIX,huobi.com,Cryptocurrency
+HOST-KEYWORD,huobi,Cryptocurrency
+HOST-KEYWORD,bitget,Cryptocurrency
+HOST-SUFFIX,okex.com,Cryptocurrency
+HOST-SUFFIX,okx.com,Cryptocurrency
+HOST-SUFFIX,gate.io,Cryptocurrency
+HOST-SUFFIX,zb.com,Cryptocurrency
+HOST-SUFFIX,mexc.com,Cryptocurrency
+HOST-KEYWORD,kucoin,Cryptocurrency
+HOST-SUFFIX,bybit.com,Cryptocurrency
+HOST-SUFFIX,htx.com,Cryptocurrency
+HOST-SUFFIX,coinex.com,Cryptocurrency
+HOST-SUFFIX,weex.com,Cryptocurrency
+
+# === DEX（去中心化交易所）===
+HOST-SUFFIX,uniswap.org,Cryptocurrency
+HOST-SUFFIX,sushi.com,Cryptocurrency
+HOST-SUFFIX,mdex.com,Cryptocurrency
+HOST-SUFFIX,mdex.me,Cryptocurrency
+HOST-SUFFIX,mdex.co,Cryptocurrency
+HOST-SUFFIX,mdex.cc,Cryptocurrency
+HOST-SUFFIX,coinwind.com,Cryptocurrency
+HOST-SUFFIX,coinwind.pro,Cryptocurrency
+HOST-SUFFIX,sun.io,Cryptocurrency
+HOST-SUFFIX,justswap.io,Cryptocurrency
+HOST-SUFFIX,just.network,Cryptocurrency
+
+# === Wallet（钱包类）===
+HOST-SUFFIX,hbwallet.net,Cryptocurrency
+HOST-SUFFIX,mytokenpocket.vip,Cryptocurrency
+HOST-SUFFIX,tokenpocket.pro,Cryptocurrency
+HOST-SUFFIX,tronlink.org,Cryptocurrency
+HOST-SUFFIX,hbwalletapi.net,Cryptocurrency
+HOST-SUFFIX,quickwallet.io,Cryptocurrency
+HOST-SUFFIX,metamask.io,Cryptocurrency
+
+# === Miner（挖矿）===
+HOST-SUFFIX,unmineable.com,Cryptocurrency
+HOST-SUFFIX,unminable.com,Cryptocurrency
+
+# === Chain（链相关）===
+HOST-SUFFIX,hecochain.com,Cryptocurrency
+HOST-SUFFIX,tronalliance.com,Cryptocurrency
+HOST-SUFFIX,tronalliance.cc,Cryptocurrency
+HOST-SUFFIX,trongrid.io,Cryptocurrency
+HOST-SUFFIX,infura.io,Cryptocurrency
+HOST-SUFFIX,binance.org,Cryptocurrency
+HOST-SUFFIX,http-mainnet-node.huobichain.com,Cryptocurrency
+
+# === DApp（去中心化应用）===
+HOST-SUFFIX,tronscan.io,Cryptocurrency
+HOST-SUFFIX,tronscan.org,Cryptocurrency
+HOST-SUFFIX,hogt.com,Cryptocurrency
+HOST-SUFFIX,yfx.com,Cryptocurrency
+HOST-SUFFIX,quickchart.io,Cryptocurrency
+HOST-SUFFIX,ajax.cloudflare.com,Cryptocurrency
+HOST-SUFFIX,coingecko.com,Cryptocurrency
+HOST-SUFFIX,min-api.cryptocompare.com,Cryptocurrency
+HOST-SUFFIX,wink.org,Cryptocurrency
+HOST-SUFFIX,faviconkit.com,Cryptocurrency
+HOST-SUFFIX,sgem.io,Cryptocurrency
+HOST-SUFFIX,hubbleprotocol.io,Cryptocurrency
+HOST-SUFFIX,raydium.io,Cryptocurrency
+HOST-SUFFIX,layerswap.io,Cryptocurrency
+HOST-SUFFIX,saros.finance,Cryptocurrency
+HOST-SUFFIX,coin98.services,Cryptocurrency
+HOST-SUFFIX,coin98.com,Cryptocurrency
+HOST-SUFFIX,onesignal.com,Cryptocurrency
+HOST-SUFFIX,genesysgo.net,Cryptocurrency
+HOST-SUFFIX,dappback.com,Cryptocurrency 
+HOST-SUFFIX,galxe.com,Cryptocurrency
+HOST-SUFFIX,quest3.xyz,Cryptocurrency
+HOST-SUFFIX,pyme.id,Cryptocurrency
+HOST-SUFFIX,pyme.team,Cryptocurrency
+HOST-SUFFIX,coindix.com,Cryptocurrency
+HOST-SUFFIX,solend.fi,Cryptocurrency
+HOST-SUFFIX,galaxy.eco,Cryptocurrency
+HOST-SUFFIX,ave.ai,Cryptocurrency
+
+# === Swap（兑换）===
+HOST-SUFFIX,justswap.io,Cryptocurrency
+HOST-SUFFIX,just.network,Cryptocurrency
+
+# === News（新闻）===
+HOST-SUFFIX,bishijie.com,Cryptocurrency
+HOST-SUFFIX,blocktempo.com,Cryptocurrency
+HOST-SUFFIX,chainnews.com,Cryptocurrency
+HOST-SUFFIX,theblockbeats.info,Cryptocurrency
+
+# === Info（行情/资讯）===
+HOST-SUFFIX,coinmarketcap.com,Cryptocurrency
+HOST-SUFFIX,feixiaoquan.com,Cryptocurrency
+HOST-SUFFIX,aicoin.cn,Cryptocurrency
+HOST-SUFFIX,bqiapp.com,Cryptocurrency
+HOST-SUFFIX,bqrank.net,Cryptocurrency
+HOST-SUFFIX,chainfeeds.xyz,Cryptocurrency
+HOST-SUFFIX,aicoin.com,Cryptocurrency
+HOST-SUFFIX,sardine.ai,Cryptocurrency
+HOST-SUFFIX,mirror.xyz,Cryptocurrency
+
+# === NFT ===
+HOST-SUFFIX,solsea.io,Cryptocurrency
+
+# === Hardware Wallet（硬件钱包）===
+HOST-SUFFIX,ledger.com,Cryptocurrency
