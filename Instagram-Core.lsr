@@ -1,0 +1,31 @@
+# 引用链接: https://raw.githubusercontent.com/chiangprc/LoonRules/main/Instagram-Core.lsr
+# UpdateTime: 2025-10-12 23:00:00
+# RuleCount: 24
+
+# Instagram 主服务、API、Graph
+DOMAIN, instagram.com
+DOMAIN, www.instagram.com
+DOMAIN, api.instagram.com
+DOMAIN, graph.instagram.com
+DOMAIN, i.instagram.com
+DOMAIN, business.instagram.com
+DOMAIN, upload.instagram.com
+DOMAIN, help.instagram.com
+DOMAIN, l.instagram.com
+DOMAIN, connect.instagram.com
+DOMAIN, static.instagram.com
+DOMAIN, secure.instagram.com
+DOMAIN-SUFFIX, instagram.com
+DOMAIN-SUFFIX, instagr.am
+DOMAIN-SUFFIX, meta.ai
+DOMAIN-SUFFIX, metaverse.com
+DOMAIN-SUFFIX, fbcdn.net
+DOMAIN-SUFFIX, fbsbx.com
+DOMAIN-KEYWORD, instagram
+DOMAIN-KEYWORD, meta
+DOMAIN-KEYWORD, fbcdn
+
+# IP段优化（Meta CDN）
+IP-CIDR, 31.13.64.0/18, no-resolve
+IP-CIDR, 157.240.0.0/16, no-resolve
+IP-CIDR, 204.15.20.0/22, no-resolve
