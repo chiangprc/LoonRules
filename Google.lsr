@@ -1,6 +1,6 @@
-# 自用修改版（原引用链接: https://rule.kelee.one/Loon/Google.lsr）
-# 自用修改版链接: https://raw.githubusercontent.com/chiangprc/LoonRules/main/Google.lsr
-
+# 引用链接: https://rule.kelee.one/Loon/Google.lsr
+# UpdateTime：2025-10-24 02:47:58
+# RuleCount：717
 DOMAIN, lens.l.google.com
 DOMAIN, mtalk.google.com
 DOMAIN, safebrowsing-cache.google.com
