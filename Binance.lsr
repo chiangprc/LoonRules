@@ -1,6 +1,0 @@
-# Binance Trading Rules
-DOMAIN-KEYWORD,binance,Proxy
-DOMAIN-SUFFIX,binance.com,Proxy
-DOMAIN-SUFFIX,binance.net,Proxy
-DOMAIN-KEYWORD,binanceapi,Proxy
-
