@@ -1,5 +1,0 @@
-# GateIO Trading Rules
-DOMAIN-KEYWORD,gateio,Proxy
-DOMAIN-SUFFIX,gate.io,Proxy
-DOMAIN-KEYWORD,gateapi,Proxy
-
