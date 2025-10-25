@@ -1,5 +1,6 @@
 # 2025-03-13
 # https://github.com/uselibrary/PCDN/blob/main/pcdn.list
+# REJECT 规则置顶
 
 # 通用 CDN 域名
 DOMAIN-SUFFIX, bsccdn.net
