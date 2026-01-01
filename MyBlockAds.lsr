@@ -1,5 +1,5 @@
-# 2024-09-17 22:35
-# https://raw.githubusercontent.com/RuCu6/Loon/main/Rules/MyBlockAds.list
+# 2026-01-01
+# https://raw.githubusercontent.com/chiangprc/LoonRules/main/MyBlockAds.lsr
 # REJECT 规则置顶
 
 # ======= A ======= #
@@ -407,6 +407,7 @@ DOMAIN, rthmnj.xyz
 DOMAIN, tc.vpubmi.com
 DOMAIN, tempest.services.disqus.com
 DOMAIN, tg.gtlpaj.com
+
 
 
 
